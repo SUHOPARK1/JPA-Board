@@ -1,11 +1,11 @@
-package com.myelinsoft.board.springboot.service;
+package com.toyproject.board.springboot.service;
 
-import com.myelinsoft.board.springboot.domain.borad.Board;
-import com.myelinsoft.board.springboot.domain.borad.BoardRepository;
-import com.myelinsoft.board.springboot.web.dto.BoardListResponseDto;
-import com.myelinsoft.board.springboot.web.dto.BoardResponseDto;
-import com.myelinsoft.board.springboot.web.dto.BoardSaveRequestDto;
-import com.myelinsoft.board.springboot.web.dto.BoardUpdateRequestDto;
+import com.toyproject.board.springboot.domain.borad.Board;
+import com.toyproject.board.springboot.domain.borad.BoardRepository;
+import com.toyproject.board.springboot.web.dto.BoardListResponseDto;
+import com.toyproject.board.springboot.web.dto.BoardResponseDto;
+import com.toyproject.board.springboot.web.dto.BoardSaveRequestDto;
+import com.toyproject.board.springboot.web.dto.BoardUpdateRequestDto;
 import lombok.RequiredArgsConstructor;
 
 import org.springframework.stereotype.Service;

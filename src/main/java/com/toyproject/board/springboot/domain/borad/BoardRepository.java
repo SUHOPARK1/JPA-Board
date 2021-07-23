@@ -1,4 +1,4 @@
-package com.myelinsoft.board.springboot.domain.borad;
+package com.toyproject.board.springboot.domain.borad;
 
 
 import org.springframework.data.jpa.repository.JpaRepository;

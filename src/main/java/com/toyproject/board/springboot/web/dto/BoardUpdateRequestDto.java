@@ -1,4 +1,4 @@
-package com.myelinsoft.board.springboot.web.dto;
+package com.toyproject.board.springboot.web.dto;
 
 import lombok.Builder;
 import lombok.Getter;

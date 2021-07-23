@@ -1,7 +1,9 @@
-package com.myelinsoft.board.springboot.web.dto;
+package com.toyproject.board.springboot.web.dto;
 
-import com.myelinsoft.board.springboot.domain.borad.Board;
+import com.toyproject.board.springboot.domain.borad.Board;
+
 import java.time.LocalDateTime;
+
 import lombok.Getter;
 
 @Getter

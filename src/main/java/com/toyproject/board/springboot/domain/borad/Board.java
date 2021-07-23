@@ -1,6 +1,6 @@
-package com.myelinsoft.board.springboot.domain.borad;
+package com.toyproject.board.springboot.domain.borad;
 
-import com.myelinsoft.board.springboot.domain.BaseTimeEntity;
+import com.toyproject.board.springboot.domain.BaseTimeEntity;
 import lombok.*;
 
 import javax.persistence.*;

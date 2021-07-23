@@ -1,9 +1,9 @@
-package com.myelinsoft.board.springboot.web;
+package com.toyproject.board.springboot.web;
 
-import com.myelinsoft.board.springboot.service.BoardService;
-import com.myelinsoft.board.springboot.web.dto.BoardResponseDto;
-import com.myelinsoft.board.springboot.web.dto.BoardSaveRequestDto;
-import com.myelinsoft.board.springboot.web.dto.BoardUpdateRequestDto;
+import com.toyproject.board.springboot.service.BoardService;
+import com.toyproject.board.springboot.web.dto.BoardResponseDto;
+import com.toyproject.board.springboot.web.dto.BoardSaveRequestDto;
+import com.toyproject.board.springboot.web.dto.BoardUpdateRequestDto;
 
 import lombok.RequiredArgsConstructor;
 
