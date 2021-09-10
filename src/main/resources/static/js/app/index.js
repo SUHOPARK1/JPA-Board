@@ -3,21 +3,21 @@ var main = {
     init : function () {
         var _this = this;
 
-        $('#btn-save').click( function (){
+        $('#btn-save').click( function(){
             if(confirm("등록 하시겠습니까?") == true){
                 _this.save();
             }else{
                 return null;
             }});
 
-        $('#btn-update').click function () {
+        $('#btn-update').click( function() {
             if(confirm("수정 하시겠습니까?") == true){
                 _this.update();
             }else{
                 return null;
             }});
 
-        $('#btn-delete').click function () {
+        $('#btn-delete').click( function() {
             if(confirm("삭제 하시겠습니까?") == true){
                 _this.delete();
             }else{
